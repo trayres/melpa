@@ -10,7 +10,7 @@ jobs:
         fetch-depth: 2
     - name: Install dependencies
       run: |
-        sudo apt-get install emacs25
+        sudo apt-add-repository -y ppa:kelleyk/emacs && sudo apt-get install emacs27
         sudo apt-get install git jq mercurial texinfo
 
         # Work around SSL-related failures, see
