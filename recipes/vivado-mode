@@ -1,0 +1,1 @@
+(vivado-mode :repo "trayres/vivado-mode" :fetcher github)
