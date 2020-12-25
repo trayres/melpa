@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 (vivado-mode :repo "trayres/vivado-mode" :fetcher github)
-=======
-(vivado-mode :repo "trayres/vivado-mode" :fetcher github)
->>>>>>> fc06f3dc78218a4ea12d6f652854aafcdc77a089
